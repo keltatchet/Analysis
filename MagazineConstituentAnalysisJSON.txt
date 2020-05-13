@@ -12,7 +12,7 @@
 		],
 		"sets": [
 			{ "format": "binary", "start": 2, "end": 44 }
-		]
+		],
     "author": "ONU",
     "description": "Key audience datasets, filtered and currated by KLH",
     "source": "Colleague - 05/20"
