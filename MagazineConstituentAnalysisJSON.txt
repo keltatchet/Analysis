@@ -8,7 +8,7 @@
 		{"type": "id", "index": 0, "name": "ID" },
 		{"type": "text", "index": 1, "name": "Jnt Mail Ind" },
 		{"type": "text", "index": 45, "name": "Email Status" },
-		{"type": "text", "index": 46, "name": "Email Category" },
+		{"type": "text", "index": 46, "name": "Email Category" }
 		],
 		"sets": [
 			{ "format": "binary", "start": 2, "end": 44 }
